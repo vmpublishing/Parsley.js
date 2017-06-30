@@ -1,0 +1,10 @@
+{
+  "name": "Parsley.js",
+  "version": "1.2.3",
+  "description": "parsley fork to provide package.json in the correct version of parsley for us",
+  "repository": "git@github.com:vmpublishing/Parsley.js.git",
+  "license": "MIT",
+  "dependencies": {
+    "jquery": ">=1.10.0"
+  }
+}
